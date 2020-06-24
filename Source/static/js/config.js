@@ -1,0 +1,3 @@
+// API key
+const API_KEY = "pk.eyJ1IjoiYmthcHNhbGlzIiwiYSI6ImNrMzg2OTZnMzA0bTMzaW5yMWhyb2hxN3AifQ.LCoY1nACfyPGDfOOP7C5hg";
+//(Eli Private Key) pk.eyJ1IjoibW9zdGRpZmZpY3VsdCIsImEiOiJja2JianFmM28wMXdvMnhyeWl4M2E3dGhnIn0.3xvnLC6gTvclLiJ2S260rg

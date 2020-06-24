@@ -1,0 +1,156 @@
+,fullName,name,parkCode,designation,states,url
+0,Acadia National Park,Acadia,acad,National Park,ME,https://www.nps.gov/acad/index.htm
+1,Alagnak Wild River,Alagnak,alag,Wild River,AK,https://www.nps.gov/alag/index.htm
+2,Alibates Flint Quarries National Monument,Alibates Flint Quarries,alfl,National Monument,TX,https://www.nps.gov/alfl/index.htm
+3,Ala Kahakai National Historic Trail,Ala Kahakai,alka,National Historic Trail,HI,https://www.nps.gov/alka/index.htm
+4,Amistad National Recreation Area,Amistad,amis,National Recreation Area,TX,https://www.nps.gov/amis/index.htm
+5,Aniakchak National Monument & Preserve,Aniakchak,ania,National Monument & Preserve,AK,https://www.nps.gov/ania/index.htm
+6,Antietam National Battlefield,Antietam,anti,National Battlefield,MD,https://www.nps.gov/anti/index.htm
+7,Apostle Islands National Lakeshore,Apostle Islands,apis,National Lakeshore,WI,https://www.nps.gov/apis/index.htm
+8,Appalachian National Scenic Trail,Appalachian,appa,National Scenic Trail,"CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV",https://www.nps.gov/appa/index.htm
+9,Arches National Park,Arches,arch,National Park,UT,https://www.nps.gov/arch/index.htm
+10,Assateague Island National Seashore,Assateague Island,asis,National Seashore,"MD,VA",https://www.nps.gov/asis/index.htm
+11,Atchafalaya National Heritage Area,Atchafalaya,attr,National Heritage Area,LA,https://www.nps.gov/attr/index.htm
+12,Badlands National Park,Badlands,badl,National Park,SD,https://www.nps.gov/badl/index.htm
+13,Bandelier National Monument,Bandelier,band,National Monument,NM,https://www.nps.gov/band/index.htm
+14,Bering Land Bridge National Preserve,Bering Land Bridge,bela,National Preserve,AK,https://www.nps.gov/bela/index.htm
+15,Big Bend National Park,Big Bend,bibe,National Park,TX,https://www.nps.gov/bibe/index.htm
+16,Bighorn Canyon National Recreation Area,Bighorn Canyon,bica,National Recreation Area,"MT,WY",https://www.nps.gov/bica/index.htm
+17,Big Cypress National Preserve,Big Cypress,bicy,National Preserve,FL,https://www.nps.gov/bicy/index.htm
+18,Biscayne National Park,Biscayne,bisc,National Park,FL,https://www.nps.gov/bisc/index.htm
+19,Big South Fork National River & Recreation Area,Big South Fork,biso,National River & Recreation Area,"KY,TN",https://www.nps.gov/biso/index.htm
+20,Big Thicket National Preserve,Big Thicket,bith,National Preserve,TX,https://www.nps.gov/bith/index.htm
+21,John H. Chafee Blackstone River Valley National Heritage Corridor,John H. Chafee Blackstone River Valley,blac,National Heritage Corridor,"MA,RI",https://www.nps.gov/blac/index.htm
+22,Black Canyon Of The Gunnison National Park,Black Canyon Of The Gunnison,blca,National Park,CO,https://www.nps.gov/blca/index.htm
+23,Blue Ridge Parkway,Blue Ridge,blri,Parkway,"NC,VA",https://www.nps.gov/blri/index.htm
+24,Blue Ridge National Heritage Area,Blue Ridge,blrn,National Heritage Area,NC,https://www.nps.gov/blrn/index.htm
+25,Blackstone River Valley National Historical Park,Blackstone River Valley,blrv,National Historical Park,"RI,MA",https://www.nps.gov/blrv/index.htm
+26,Boston Harbor Islands National Recreation Area,Boston Harbor Islands,boha,National Recreation Area,MA,https://www.nps.gov/boha/index.htm
+27,Bryce Canyon National Park,Bryce Canyon,brca,National Park,UT,https://www.nps.gov/brca/index.htm
+28,Buffalo National River,Buffalo,buff,National River,AR,https://www.nps.gov/buff/index.htm
+29,Canyon de Chelly National Monument,Canyon de Chelly,cach,National Monument,AZ,https://www.nps.gov/cach/index.htm
+30,Cape Cod National Seashore,Cape Cod,caco,National Seashore,MA,https://www.nps.gov/caco/index.htm
+31,Cape Hatteras National Seashore,Cape Hatteras,caha,National Seashore,NC,https://www.nps.gov/caha/index.htm
+32,Cape Krusenstern National Monument,Cape Krusenstern,cakr,National Monument,AK,https://www.nps.gov/cakr/index.htm
+33,Cape Lookout National Seashore,Cape Lookout,calo,National Seashore,NC,https://www.nps.gov/calo/index.htm
+34,Castle Mountains National Monument,Castle Mountains,camo,National Monument,CA,https://www.nps.gov/camo/index.htm
+35,Canaveral National Seashore,Canaveral,cana,National Seashore,FL,https://www.nps.gov/cana/index.htm
+36,Canyonlands National Park,Canyonlands,cany,National Park,UT,https://www.nps.gov/cany/index.htm
+37,Capitol Reef National Park,Capitol Reef,care,National Park,UT,https://www.nps.gov/care/index.htm
+38,Catoctin Mountain Park,Catoctin Mountain,cato,Park,MD,https://www.nps.gov/cato/index.htm
+39,Carlsbad Caverns National Park,Carlsbad Caverns,cave,National Park,NM,https://www.nps.gov/cave/index.htm
+40,Cedar Breaks National Monument,Cedar Breaks,cebr,National Monument,UT,https://www.nps.gov/cebr/index.htm
+41,Chaco Culture National Historical Park,Chaco Culture,chcu,National Historical Park,NM,https://www.nps.gov/chcu/index.htm
+42,Chickasaw National Recreation Area,Chickasaw,chic,National Recreation Area,OK,https://www.nps.gov/chic/index.htm
+43,Chiricahua National Monument,Chiricahua,chir,National Monument,AZ,https://www.nps.gov/chir/index.htm
+44,Channel Islands National Park,Channel Islands,chis,National Park,CA,https://www.nps.gov/chis/index.htm
+45,Chesapeake & Ohio Canal National Historical Park,Chesapeake & Ohio Canal,choh,National Historical Park,"DC,MD,WV",https://www.nps.gov/choh/index.htm
+46,City Of Rocks National Reserve,City Of Rocks,ciro,National Reserve,ID,https://www.nps.gov/ciro/index.htm
+47,Colorado National Monument,Colorado,colm,National Monument,CO,https://www.nps.gov/colm/index.htm
+48,Congaree National Park,Congaree,cong,National Park,SC,https://www.nps.gov/cong/index.htm
+49,Crater Lake National Park,Crater Lake,crla,National Park,OR,https://www.nps.gov/crla/index.htm
+50,Craters Of The Moon National Monument & Preserve,Craters Of The Moon,crmo,National Monument & Preserve,ID,https://www.nps.gov/crmo/index.htm
+51,Cumberland Gap National Historical Park,Cumberland Gap,cuga,National Historical Park,"KY,TN,VA",https://www.nps.gov/cuga/index.htm
+52,Cumberland Island National Seashore,Cumberland Island,cuis,National Seashore,GA,https://www.nps.gov/cuis/index.htm
+53,Curecanti National Recreation Area,Curecanti,cure,National Recreation Area,CO,https://www.nps.gov/cure/index.htm
+54,Cuyahoga Valley National Park,Cuyahoga Valley,cuva,National Park,OH,https://www.nps.gov/cuva/index.htm
+55,Denali National Park & Preserve,Denali,dena,National Park & Preserve,AK,https://www.nps.gov/dena/index.htm
+56,Devils Postpile National Monument,Devils Postpile,depo,National Monument,CA,https://www.nps.gov/depo/index.htm
+57,Devils Tower National Monument,Devils Tower,deto,National Monument,WY,https://www.nps.gov/deto/index.htm
+58,Death Valley National Park,Death Valley,deva,National Park,"CA,NV",https://www.nps.gov/deva/index.htm
+59,Dinosaur National Monument,Dinosaur,dino,National Monument,"CO,UT",https://www.nps.gov/dino/index.htm
+60,Dry Tortugas National Park,Dry Tortugas,drto,National Park,FL,https://www.nps.gov/drto/index.htm
+61,Ebey's Landing National Historical Reserve,Ebey's Landing,ebla,National Historical Reserve,WA,https://www.nps.gov/ebla/index.htm
+62,El Malpais National Monument,El Malpais,elma,National Monument,NM,https://www.nps.gov/elma/index.htm
+63,El Morro National Monument,El Morro,elmo,National Monument,NM,https://www.nps.gov/elmo/index.htm
+64,Everglades National Park,Everglades,ever,National Park,FL,https://www.nps.gov/ever/index.htm
+65,Fire Island National Seashore,Fire Island,fiis,National Seashore,NY,https://www.nps.gov/fiis/index.htm
+66,Gates Of The Arctic National Park & Preserve,Gates Of The Arctic,gaar,National Park & Preserve,AK,https://www.nps.gov/gaar/index.htm
+67,Gauley River National Recreation Area,Gauley River,gari,National Recreation Area,WV,https://www.nps.gov/gari/index.htm
+68,Gateway National Recreation Area,Gateway,gate,National Recreation Area,"NY,NJ",https://www.nps.gov/gate/index.htm
+69,Gettysburg National Military Park,Gettysburg,gett,National Military Park,PA,https://www.nps.gov/gett/index.htm
+70,Glacier National Park,Glacier,glac,National Park,MT,https://www.nps.gov/glac/index.htm
+71,Glacier Bay National Park & Preserve,Glacier Bay,glba,National Park & Preserve,AK,https://www.nps.gov/glba/index.htm
+72,Glen Canyon National Recreation Area,Glen Canyon,glca,National Recreation Area,"AZ,UT",https://www.nps.gov/glca/index.htm
+73,Golden Gate National Recreation Area,Golden Gate,goga,National Recreation Area,CA,https://www.nps.gov/goga/index.htm
+74,Great Basin National Park,Great Basin,grba,National Park,NV,https://www.nps.gov/grba/index.htm
+75,Grand Canyon National Park,Grand Canyon,grca,National Park,AZ,https://www.nps.gov/grca/index.htm
+76,Greenbelt Park,Greenbelt,gree,Park,MD,https://www.nps.gov/gree/index.htm
+77,Great Egg Harbor River,Great Egg Harbor River,greg,,NJ,https://www.nps.gov/greg/index.htm
+78,Grand Portage National Monument,Grand Portage,grpo,National Monument,MN,https://www.nps.gov/grpo/index.htm
+79,Great Sand Dunes National Park & Preserve,Great Sand Dunes,grsa,National Park & Preserve,CO,https://www.nps.gov/grsa/index.htm
+80,Great Smoky Mountains National Park,Great Smoky Mountains,grsm,National Park,"NC,TN",https://www.nps.gov/grsm/index.htm
+81,Grand Teton National Park,Grand Teton,grte,National Park,WY,https://www.nps.gov/grte/index.htm
+82,Gulf Islands National Seashore,Gulf Islands,guis,National Seashore,"FL,MS",https://www.nps.gov/guis/index.htm
+83,Guadalupe Mountains National Park,Guadalupe Mountains,gumo,National Park,TX,https://www.nps.gov/gumo/index.htm
+84,Haleakal&#257; National Park,Haleakal&#257;,hale,National Park,HI,https://www.nps.gov/hale/index.htm
+85,Hawai'i Volcanoes National Park,Hawai'i Volcanoes,havo,National Park,HI,https://www.nps.gov/havo/index.htm
+86,Hot Springs National Park,Hot Springs,hosp,National Park,AR,https://www.nps.gov/hosp/index.htm
+87,Hovenweep National Monument,Hovenweep,hove,National Monument,"CO,UT",https://www.nps.gov/hove/index.htm
+88,Ice Age National Scenic Trail,Ice Age,iatr,National Scenic Trail,WI,https://www.nps.gov/iatr/index.htm
+89,Indiana Dunes National Park,Indiana Dunes,indu,National Park,IN,https://www.nps.gov/indu/index.htm
+90,Isle Royale National Park,Isle Royale,isro,National Park,MI,https://www.nps.gov/isro/index.htm
+91,Joshua Tree National Park,Joshua Tree,jotr,National Park,CA,https://www.nps.gov/jotr/index.htm
+92,Katmai National Park & Preserve,Katmai,katm,National Park & Preserve,AK,https://www.nps.gov/katm/index.htm
+93,Kenai Fjords National Park,Kenai Fjords,kefj,National Park,AK,https://www.nps.gov/kefj/index.htm
+94,Klondike Gold Rush National Historical Park,Klondike Gold Rush,klgo,National Historical Park,AK,https://www.nps.gov/klgo/index.htm
+95,Kobuk Valley National Park,Kobuk Valley,kova,National Park,AK,https://www.nps.gov/kova/index.htm
+96,Lava Beds National Monument,Lava Beds,labe,National Monument,CA,https://www.nps.gov/labe/index.htm
+97,Lake Clark National Park & Preserve,Lake Clark,lacl,National Park & Preserve,AK,https://www.nps.gov/lacl/index.htm
+98,Lake Mead National Recreation Area,Lake Mead,lake,National Recreation Area,"AZ,NV",https://www.nps.gov/lake/index.htm
+99,Lake Meredith National Recreation Area,Lake Meredith,lamr,National Recreation Area,TX,https://www.nps.gov/lamr/index.htm
+100,Lake Roosevelt National Recreation Area,Lake Roosevelt,laro,National Recreation Area,WA,https://www.nps.gov/laro/index.htm
+101,Lassen Volcanic National Park,Lassen Volcanic,lavo,National Park,CA,https://www.nps.gov/lavo/index.htm
+102,Lower Delaware National Wild and Scenic River,Lower Delaware,lode,National Wild and Scenic River,"PA,NJ",https://www.nps.gov/lode/index.htm
+103,Mammoth Cave National Park,Mammoth Cave,maca,National Park,KY,https://www.nps.gov/maca/index.htm
+104,Mesa Verde National Park,Mesa Verde,meve,National Park,CO,https://www.nps.gov/meve/index.htm
+105,Mississippi Hills National Heritage Area,Mississippi Hills,mihi,National Heritage Area,MS,https://www.nps.gov/mihi/index.htm
+106,Missouri National Recreational River,Missouri,mnrr,National Recreational River,"SD,NE",https://www.nps.gov/mnrr/index.htm
+107,Mojave National Preserve,Mojave,moja,National Preserve,CA,https://www.nps.gov/moja/index.htm
+108,Mount Rainier National Park,Mount Rainier,mora,National Park,WA,https://www.nps.gov/mora/index.htm
+109,Natural Bridges National Monument,Natural Bridges,nabr,National Monument,UT,https://www.nps.gov/nabr/index.htm
+110,Natchez Trace Parkway,Natchez Trace,natr,Parkway,"AL,MS,TN",https://www.nps.gov/natr/index.htm
+111,Navajo National Monument,Navajo,nava,National Monument,AZ,https://www.nps.gov/nava/index.htm
+112,New England National Scenic Trail,New England,neen,National Scenic Trail,"MA,CT",https://www.nps.gov/neen/index.htm
+113,Nez Perce National Historical Park,Nez Perce,nepe,National Historical Park,"ID,MT,OR,WA",https://www.nps.gov/nepe/index.htm
+114,New River Gorge National River,New River Gorge,neri,National River,WV,https://www.nps.gov/neri/index.htm
+115,Noatak National Preserve,Noatak,noat,National Preserve,AK,https://www.nps.gov/noat/index.htm
+116,North Cascades National Park,North Cascades,noca,National Park,WA,https://www.nps.gov/noca/index.htm
+117,North Country National Scenic Trail,North Country,noco,National Scenic Trail,"MI,MN,ND,NY,OH,PA,VT,WI",https://www.nps.gov/noco/index.htm
+118,National Parks of New York Harbor,National Parks of New York Harbor,npnh,,NY,https://www.nps.gov/npnh/index.htm
+119,Obed Wild & Scenic River,Obed,obed,Wild & Scenic River,TN,https://www.nps.gov/obed/index.htm
+120,Olympic National Park,Olympic,olym,National Park,WA,https://www.nps.gov/olym/index.htm
+121,Oregon Caves National Monument & Preserve,Oregon Caves,orca,National Monument & Preserve,OR,https://www.nps.gov/orca/index.htm
+122,Organ Pipe Cactus National Monument,Organ Pipe Cactus,orpi,National Monument,AZ,https://www.nps.gov/orpi/index.htm
+123,Ozark National Scenic Riverways,Ozark,ozar,National Scenic Riverways,MO,https://www.nps.gov/ozar/index.htm
+124,Padre Island National Seashore,Padre Island,pais,National Seashore,TX,https://www.nps.gov/pais/index.htm
+125,Petrified Forest National Park,Petrified Forest,pefo,National Park,AZ,https://www.nps.gov/pefo/index.htm
+126,Pinnacles National Park,Pinnacles,pinn,National Park,CA,https://www.nps.gov/pinn/index.htm
+127,Pictured Rocks National Lakeshore,Pictured Rocks,piro,National Lakeshore,MI,https://www.nps.gov/piro/index.htm
+128,Pipe Spring National Monument,Pipe Spring,pisp,National Monument,AZ,https://www.nps.gov/pisp/index.htm
+129,Potomac Heritage National Scenic Trail,Potomac Heritage,pohe,National Scenic Trail,"DC,MD,PA,VA",https://www.nps.gov/pohe/index.htm
+130,Point Reyes National Seashore,Point Reyes,pore,National Seashore,CA,https://www.nps.gov/pore/index.htm
+131,Prince William Forest Park,Prince William Forest,prwi,Park,VA,https://www.nps.gov/prwi/index.htm
+132,Redwood National and State Parks,Redwood,redw,National and State Parks,CA,https://www.nps.gov/redw/index.htm
+133,Rio Grande Wild & Scenic River,Rio Grande,rigr,Wild & Scenic River,TX,https://www.nps.gov/rigr/index.htm
+134,Rocky Mountain National Park,Rocky Mountain,romo,National Park,CO,https://www.nps.gov/romo/index.htm
+135,Saint Croix National Scenic Riverway,Saint Croix,sacn,National Scenic Riverway,"WI,MN",https://www.nps.gov/sacn/index.htm
+136,Saguaro National Park,Saguaro,sagu,National Park,AZ,https://www.nps.gov/sagu/index.htm
+137,Santa Monica Mountains National Recreation Area,Santa Monica Mountains,samo,National Recreation Area,CA,https://www.nps.gov/samo/index.htm
+138,Salinas Pueblo Missions National Monument,Salinas Pueblo Missions,sapu,National Monument,NM,https://www.nps.gov/sapu/index.htm
+139,Sequoia & Kings Canyon National Parks,Sequoia & Kings Canyon,seki,National Parks,CA,https://www.nps.gov/seki/index.htm
+140,Shenandoah National Park,Shenandoah,shen,National Park,VA,https://www.nps.gov/shen/index.htm
+141,Sleeping Bear Dunes National Lakeshore,Sleeping Bear Dunes,slbe,National Lakeshore,MI,https://www.nps.gov/slbe/index.htm
+142,South Carolina National Heritage Corridor,South Carolina,soca,National Heritage Corridor,SC,https://www.nps.gov/soca/index.htm
+143,Star-Spangled Banner National Historic Trail,Star-Spangled Banner,stsp,National Historic Trail,"MD,VA,DC",https://www.nps.gov/stsp/index.htm
+144,Theodore Roosevelt National Park,Theodore Roosevelt,thro,National Park,ND,https://www.nps.gov/thro/index.htm
+145,Virgin Islands National Park,Virgin Islands,viis,National Park,VI,https://www.nps.gov/viis/index.htm
+146,Voyageurs National Park,Voyageurs,voya,National Park,MN,https://www.nps.gov/voya/index.htm
+147,Whiskeytown National Recreation Area,Whiskeytown,whis,National Recreation Area,CA,https://www.nps.gov/whis/index.htm
+148,White Sands National Park,White Sands,whsa,National Park,NM,https://www.nps.gov/whsa/index.htm
+149,Wind Cave National Park,Wind Cave,wica,National Park,SD,https://www.nps.gov/wica/index.htm
+150,Wrangell - St Elias National Park & Preserve,Wrangell - St Elias,wrst,National Park & Preserve,AK,https://www.nps.gov/wrst/index.htm
+151,Yellowstone National Park,Yellowstone,yell,National Park,"ID,MT,WY",https://www.nps.gov/yell/index.htm
+152,Yosemite National Park,Yosemite,yose,National Park,CA,https://www.nps.gov/yose/index.htm
+153,Yukon - Charley Rivers National Preserve,Yukon - Charley Rivers,yuch,National Preserve,AK,https://www.nps.gov/yuch/index.htm
+154,Zion National Park,Zion,zion,National Park,UT,https://www.nps.gov/zion/index.htm
