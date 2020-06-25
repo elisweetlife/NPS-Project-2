@@ -17,7 +17,7 @@ var lightmap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/
 
 // Initialize all of the LayerGroups we'll be using
 var layers = {
-  CAMPNG_SOON: new L.LayerGroup(),
+  COMING_SOON: new L.LayerGroup(),
   EMPTY: new L.LayerGroup(),
   LOW: new L.LayerGroup(),
   NORMAL: new L.LayerGroup(),
@@ -34,7 +34,7 @@ var map = L.map("map-id", {
   zoom:5,
   //zoom: 12,
   layers: [
-    layers.CAMPNG_SOON,
+    layers.COMING_SOON,
     layers.EMPTY,
     layers.LOW,
     layers.NORMAL,
@@ -47,7 +47,7 @@ lightmap.addTo(map);
 
 // Create an overlays object to add to the layer control
 var overlays = {
-  "CAMPNG Soon": layers.CAMPNG_SOON,
+  "Coming Soon": layers.COMING_SOON,
   "Empty Stations": layers.EMPTY,
   "Low Stations": layers.LOW,
   "Healthy Stations": layers.NORMAL,
@@ -72,7 +72,7 @@ info.addTo(map);
 
 // Initialize an object containing icons for each layer group
 var icons = {
-  CAMNG_SOON: L.ExtraMarkers.icon({
+  COMING_SOON: L.ExtraMarkers.icon({
     icon: "ion-settings",
     iconColor: "white",
     markerColor: "yellow",
@@ -108,16 +108,16 @@ var icons = {
 d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", function(infoRes) {
 
   // When the first API call is complete, perform another call to the Citi Bike Station Status endpoint
-  d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_status.json", function(statusRes) {
+  //d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_status.json", function(statusRes) {
   d3.json("", function(statusRes) {
 
     var updatedAt = infoRes.last_updated;
-    var stationStatus = statusRes.data.stations;
+    //var stationStatus = statusRes.data.stations;
     var stationInfo = infoRes.data.stations;
 
     // Create an object to keep of the number of markers in each layer
     var stationCount = {
-      CAMPNG_SOON: 0,
+      COMING_SOON: 0,
       EMPTY: 0,
       LOW: 0,
       NORMAL: 0,
@@ -132,9 +132,9 @@ d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", functio
 
       // Create a new station object with properties of both station objects
       var station = Object.assign({}, stationInfo[i], stationStatus[i]);
-      // If a station is listed but not installed, it's camping soon
+      // If a station is listed but not installed, it's coming soon
       if (!station.is_installed) {
-        stationStatusCode = "CAMPNG_SOON";
+        stationStatusCode = "COMING_SOON";
       }
       // If a station has no bikes available, it's empty
       else if (!station.num_bikes_available) {
@@ -177,7 +177,7 @@ function updateLegend(time, stationCount) {
   document.querySelector(".legend").innerHTML = [
     "<p>Updated: " + moment.unix(time).format("h:mm:ss A") + "</p>",
     "<p class='out-of-order'>Out of Order Stations: " + stationCount.OUT_OF_ORDER + "</p>",
-    "<p class='camping-soon'>Stations Campng Soon: " + stationCount.CAMPNG_SOON + "</p>",
+    "<p class='coming-soon'>Stations Coming Soon: " + stationCount.COMING_SOON + "</p>",
     "<p class='empty'>Empty Stations: " + stationCount.EMPTY + "</p>",
     "<p class='low'>Low Stations: " + stationCount.LOW + "</p>",
     "<p class='healthy'>Healthy Stations: " + stationCount.NORMAL + "</p>"
